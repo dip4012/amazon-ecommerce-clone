@@ -1,0 +1,3 @@
+[submodule "amazon-ecommerce-clone-backend"]
+	path = amazon-ecommerce-clone-backend
+	url = https://github.com/dip4012/amazon-ecommerce-clone-backend.git
